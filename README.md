@@ -1,7 +1,13 @@
-# CS_I: CS와 나
 ## CS 스터디
 > 17주차 (~6월 말)
-> 
+
+
+### 참여자
+
+<a href="https://github.com/seohyun319/CS_I/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=seohyun319/CS_I" />
+</a>
+
 
 ### 스터디 주제 순서
 
@@ -62,10 +68,4 @@
 - [tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
 - [Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 <br>
-
-### 참여자
-
-<a href="https://github.com/seohyun319/CS_I/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=seohyun319/CS_I" />
-</a>
 
